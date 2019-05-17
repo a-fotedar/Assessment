@@ -13,3 +13,23 @@ Steps To Use:
 - Open SoapUI once installation is completed
 - Import the ABSA Assessment Task 1.xml file into SoapUI. (Alternately, You may extract the .xml file from the Zip Folder and import that into SoapUI. Both are the same).
 ###########################################################################################
+
+# Task 2: way2automation.com/angularjs-protractor/webtables/
+Tool(s) Used:
+  - Eclipse
+  - Selenium
+  
+Pre-requisites:
+  - Java jdk
+  - Selenium Web Driver (Java)
+  - Chrome WebDriver (driver.exe file stored in C:\)
+  - Google Chrome
+  
+Step to use:
+- Install Java Jdk on machine
+  - Ensure JDK is available on "PATH" environment variable (Windows)
+- Download and install Eclipse
+- Download Selenium WebDriver
+  - Configure Eclipse to use Selenium Webdriver
+- Import Project into Eclipse (to view code and execute)
+###########################################################################################
